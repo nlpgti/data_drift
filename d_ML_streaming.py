@@ -200,10 +200,10 @@ def run_one_experiment(model, num_samples, data_drift_analysis, verbose):
 
 if __name__ == '__main__':
     # Scenario 1
-    # run_one_experiment("htc", None, data_drift_analysis=False, verbose=True)
+    run_one_experiment("htc", None, data_drift_analysis=False, verbose=True)
     # Scenario 2
     # run_parallel_experiments("htc", None, data_drift_analysis=False, verbose=False)
     # Scenario 3
-    run_parallel_experiments("arfc", None, data_drift_analysis=True, verbose=False)
+    # run_parallel_experiments("htc", None, data_drift_analysis=True, verbose=False)
     # Scenario 4
     # run_one_experiment("arfc", None, data_drift_analysis=True, verbose=True)
