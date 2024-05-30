@@ -19,7 +19,8 @@ If you use this code, please cite the following reference.
 @article{arriba2024,
   title={Online detection and infographic explanation of spam reviews with data drift adaptation},
   author={de Arriba-Pérez, Francisco and García-Méndez, Silvia and Leal, Fátima and Malheiro, Benedita and Burguillo, Juan C.},
-  journal={Under review},
+  journal={Informatica},
+  note={Under review}
   year={2024}
 }
 ```
